@@ -1,0 +1,47 @@
+_repo: Stand-By-The-Union_18816
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bridgman, L. J. (Lewis Jesse)
+    aliases:
+    - Bridgman, Lewis Jesse
+    - Bridgeman, Lewis Jesse
+    birthdate: 1857
+    deathdate: 1931
+    gutenberg_agent_id: '8122'
+    url: http://www.gutenberg.org/2009/agents/8122
+covers:
+- cover_type: archival
+  image_path: 18816-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William Taylor
+    - Adams, William T. (William Taylor)
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
+description: ''
+gutenberg_bookshelf:
+- Children's Fiction
+- US Civil War
+gutenberg_issued: '2006-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18816'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Blue and the Gray--Afloat, book 4
+subjects:
+- !lcsh 'War stories'
+- !lcsh 'Steamboats -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Naval operations -- Juvenile
+  fiction'
+title: Stand By The Union
+url: http://www.gutenberg.org/ebooks/18816
